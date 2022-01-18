@@ -1,5 +1,8 @@
 
-The statring page of my book with ‘d2lbook’.
+My Book
+=======
+
+The starting page of my book with ``OpenMLSYS``.
 
 .. toctree::
    get_started
