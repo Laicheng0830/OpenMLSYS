@@ -1,8 +1,5 @@
 
-Deploying Demo for d2lbook
-==========================
-
-This is a demo to deploy on Github.
+The statring page of my book with ‘d2lbook’.
 
 .. toctree::
    get_started
