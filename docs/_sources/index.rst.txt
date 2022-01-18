@@ -1,5 +1,8 @@
 
-This is a demo to deploy on Github.
+My Book
+=======
+
+The starting page of my book with ``d2lbook``.
 
 .. toctree::
    get_started
